@@ -30,6 +30,7 @@ As an American tech multinational company, Amazon has established itself as a ma
 | product_link | Official Website Link of the Product |
 
 ### Project consists of the following
+
 * Dataset Walkthrough
 * Understanding Dataset Hierarchy
 * Data Preprocessing
