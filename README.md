@@ -32,8 +32,9 @@ As an American tech multinational company, Amazon has established itself as a ma
 ### Project consists of the following
 
 * Dataset Walkthrough
-* Understanding Dataset Hierarchy
+* Data Cleaning
 * Data Preprocessing
 * Exploratory Data Analysis
 * Data Visualization
+* Sentiment Analysis
 * Making Recommendation System
